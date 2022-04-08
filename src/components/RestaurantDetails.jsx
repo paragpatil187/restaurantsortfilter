@@ -76,11 +76,11 @@ export default function RestaurantDetails() {
     let item=[...show]
      if(cost=="ltoh"){
          
-         item.sort((a,b)=>a.cost_for_two - b.cost_for_two);
+         item.sort((a,b)=>a.cost_for_one - b.cost_for_one);
          setShow(item)
      }
      else{
-     item.sort((a, b) => b.cost_for_two - a.cost_for_two);
+     item.sort((a, b) => b.cost_for_one - a.cost_for_one);
      setShow(item)
      }
 
