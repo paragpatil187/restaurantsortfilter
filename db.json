@@ -1,0 +1,300 @@
+{
+    "get-restaurants": [
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/place_to_bee.png",
+        "name": "Place to Bee",
+        "category": "Pizza, Desert , Continental, Asian",
+        "cost_for_one":125,
+        "payment_method": {
+          "cash": true,
+          "card": true,
+          "upi":true
+        },
+        "rating": "4.5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/dimora.png",
+        "name": "Dimora",
+        "category": "Pizza, Desert , Continental, Asian",
+        "cost_for_one":175,
+        "payment_method": {
+          "cash": true,
+          "card": false,
+          "upi":true
+        },
+        "rating": "4.3",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/kalam_hot_kitchen_restaurant.png",
+        "name": "Kalam Hot Kitchen",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":200,
+        "payment_method": {
+          "cash": false,
+          "card": true,
+          "upi":false
+        },
+        "rating": "5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/kumar_mess.png",
+        "name": "Kumar Mess",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":150,
+        "payment_method": {
+          "cash": false,
+          "card": true,
+          "upi":false
+        },
+        "rating": "4.5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/anjappar_chettinad_restaurant.png",
+        "name": "Anjappar Restaurant",
+        "category": "Pizza, Desert , Continental, Asian",
+      
+        "cost_for_one":250,
+        "payment_method": {
+          "cash": true,
+          "card": true,
+          "upi":false
+        },
+        "rating": "3.8",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/tava-restaurant-2.jpg",
+        "name": "Tava",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":150,
+        "payment_method": {
+          "cash": true,
+          "card": false,
+          "upi":false
+        },
+        "rating": "4.1",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/phils-bistro.jpg",
+        "name": "Phils Bistro",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":200,
+        "payment_method": {
+          "cash": false,
+          "card": true,
+          "upi":true
+        },
+        "rating": "4.1",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/barbeque-nation-hospitality.jpg",
+        "name": "Barbeque Nation",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":175,
+        "payment_method": {
+          "cash": false,
+          "card": true
+        },
+        "rating": "2.7",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/junior-kuppana-restaurant.jpg",
+        "name": "Junior Kuppana restaurant",
+        "category": "Pizza, Desert , Continental, Asian",
+        "cost_for_one":125,
+        "payment_method": {
+          "cash": true,
+          "card": true,
+          "upi":false
+        },
+        "rating": "1.5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/andhra-curry.jpg",
+        "name": "Andhra Curry",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":100,
+        "payment_method": {
+          "cash": true,
+          "card": false,
+          "upi":false
+        },
+        "rating": "4.8",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/andhra-curry.jpg",
+        "name": "Andhra Curry",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":75,
+        "payment_method": {
+          "cash": false,
+          "card": true,
+          "upi":false
+        },
+        "rating": "2.3",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/junior-kuppana-restaurant.jpg",
+        "name": "Junior Kuppana restaurant",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":100,
+        "payment_method": {
+          "cash": true,
+          "card": false,
+          "upi":false
+        },
+        "rating": "3.5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/barbeque-nation-hospitality.jpg",
+        "name": "Barbeque Nation",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":200,
+        "payment_method": {
+          "cash": true,
+          "card": true,
+          "upi":false
+        },
+        "rating": "3.5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/phils-bistro.jpg",
+        "name": "Phils Bistro",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":400,
+        "payment_method": {
+          "cash": true,
+          "card": false,
+          "upi":false
+        },
+        "rating": "3.6",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/tava-restaurant-2.jpg",
+        "name": "Tava",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":325,
+        "payment_method": {
+          "cash": false,
+          "card": true,
+          "upi":false
+        },
+        "rating": "4.5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/anjappar_chettinad_restaurant.png",
+        "name": "Anjappar Chettinad Restaurant",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":200,
+        "payment_method": {
+          "cash": true,
+          "card": true,
+          "upi":false
+        },
+        "rating": "3.1",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/kumar_mess.png",
+        "name": "Kumar Mess",
+        "category": "Pizza, Desert , Continental, Asian",
+        "cost_for_two": 460,
+        "cost_for_one":230,
+        "payment_method": {
+          "cash": false,
+          "card": true,
+          "upi":false
+        },
+        "rating": "4.2",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/kalam_hot_kitchen_restaurant.png",
+        "name": "Kalam Hot Kitchen Restaurant",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":250,
+        "payment_method": {
+          "cash": false,
+          "card": true,
+          "upi":false
+        },
+        "rating": "5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/dimora.png",
+        "name": "Dimora",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":325,
+        "payment_method": {
+          "cash": true,
+          "card": false,
+          "upi":false
+        },
+        "rating": "5",
+        "reviews": "150 reviews",
+        "votes": 400
+      },
+      {
+        "img": "https://www.crazymasalafood.com/wp-content/images/place_to_bee.png",
+        "name": "Place to Bee",
+        "category": "Pizza, Desert , Continental, Asian",
+        
+        "cost_for_one":200,
+        "payment_method": {
+          "cash": true,
+          "card": true,
+          "upi":true
+        },
+        "rating": "4",
+        "reviews": "150 reviews",
+        "votes": 400
+      }
+    ]
+  }
